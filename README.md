@@ -14,6 +14,7 @@
 </a>
 
 <br><br><br>
+#
 
 <h4>🛠️Languages and Tools:</h4>
 
@@ -29,7 +30,7 @@
 <img align="left" alt="aws" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 
-#
+
 
           
 
