@@ -9,9 +9,6 @@
 <a href="https://www.linkedin.com/in/nhlanhla-mokoena-32b22b174/" target="_blank" rel="noopener noreferrer">
     <img align="left" alt="linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
-<a href="https://mokoena.my.canva.site/" target="_blank" rel="noopener noreferrer">
-    <img align="left" alt="website" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/svg/447845/website-click" />
-</a>
 <a href="https://twitter.com/960918mokoena" target="_blank" rel="noopener noreferrer">
     <img align="left" alt="twitter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" />
 </a>
