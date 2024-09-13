@@ -1,5 +1,7 @@
 ## Hi there 👋
 ###### Welcome to my Github profile
+
+*Data Scientist (Aspiring Software engineer)*
 <!--
 **Murci20965/Murci20965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
