@@ -1,4 +1,4 @@
-<h3 align="center">😁Murci</h3>
+<h3 align="center" color="limegreen">😁Murci - Ai Ninja</h3>
 <h4>Welcome to my Github profile</h4>
 
 <hr>
