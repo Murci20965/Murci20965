@@ -3,7 +3,7 @@
 
 <hr>
 
-<p>👋Hi, I’m Nhlanhla Mokoena – a <strong>Junior Data Scientist</strong> with a passion for solving real-world problems through data. I specialize in <strong>machine learning, predictive analytics</strong>, and <strong>data visualization</strong>, using tools like <strong>Python, SQL, TensorFlow, Excel</strong>, and <strong>Power BI</strong>. My projects are built from the ground up, focusing on applying data-driven insights to drive business growth. I'm committed to continuous learning and excited about the role of <strong>AI</strong> and <strong>data science</strong> in transforming industries, while also expanding my expertise in <strong>web development</strong> to further innovate across sectors.</p>
+<p>👋Hi, I’m Nhlanhla Mokoena, but you can call me Murci – Driven and adaptable <strong>junior data scientist</strong> with a passion for <strong>artificial intelligence</strong>, <strong>machine learning</strong>, and <strong>innovation</strong>. Experienced in building <strong>predictive models</strong> and analyzing <strong>large datasets</strong>. Excels in collaborative environments and thrives in upskilling to tackle complex problems. Looking to contribute to groundbreaking AI projects with a team committed to pushing technological boundaries
 
 #
 
