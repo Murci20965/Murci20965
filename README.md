@@ -3,7 +3,7 @@
 
 <hr>
 
-<p>👋Hi, I’m Nhlanhla Mokoena, but you can call me Murci – Driven and adaptable <strong>generative data scientist</strong> with a passion for <strong>artificial intelligence</strong>, <strong>machine learning</strong>, and <strong>innovation</strong>. Experienced in building <strong>predictive models</strong> and analyzing <strong>large datasets</strong>. Excels in collaborative environments and thrives in upskilling to tackle complex problems. passionate about contribute to groundbreaking AI projects with a team committed to pushing technological boundaries
+<p>👋Hi, I’m Nhlanhla Mokoena, but you can call me Murci – Driven and adaptable <strong>generative AI data scientist</strong> with a passion for <strong>artificial intelligence</strong>, <strong>machine learning</strong>, and <strong>innovation</strong>. Experienced in building <strong>predictive models</strong> and analyzing <strong>large datasets</strong>. Excels in collaborative environments and thrives in upskilling to tackle complex problems. passionate about contribute to groundbreaking AI projects with a team committed to pushing technological boundaries
 
 #
 
