@@ -3,7 +3,7 @@
 
 <hr>
 
-<p>👋Hi, I’m Nhlanhla Mokoena, but you can call me Murci – Certified Data Scientist with a Focus on Generative AI, AI Engineering & Automation
+<p>👋Hi, I’m Nhlanhla Mokoena, but you can call me Murci – I am certified Data Scientist with a Focus on Generative AI, AI Engineering & Automation
 
 Driven by a fascination for artificial intelligence and its transformative potential. While certified in data science, my primary interest lies in the exciting realm of generative AI and machine learning. I am also a self-taught developer with a passion for AI engineering, particularly in the areas of automation and the development of intelligent AI agents.
 
