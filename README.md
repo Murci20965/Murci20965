@@ -7,7 +7,7 @@
 
 Driven by a fascination for artificial intelligence and its transformative potential. While certified in data science, my primary interest lies in the exciting realm of generative AI and machine learning. I am also a self-taught developer with a passion for AI engineering, particularly in the areas of automation and the development of intelligent AI systems.
 
-My technical skills include proficiency in Python for data analysis and machine learning, experience with data visualization using python libraries such as matplotlib and seaborn, and a growing understanding of front-end development (HTML, CSS, JavaScript). I am actively learning about and experimenting with neural networks and the application of large language models.
+My technical skills include proficiency in Python for data analysis and machine learning, experience with data visualization using python libraries such as matplotlib and seaborn. With growing understanding of front-end development (HTML, CSS) I am constantly pushing towards full-stack AI Engineering using vibe coding for clean UIs and dashboards. I am actively learning about and experimenting with neural networks and the application of large language models.
 
 Open to collaborations and eager to contribute to projects that push the boundaries of AI and automation.
 
