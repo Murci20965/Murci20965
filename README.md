@@ -3,14 +3,16 @@
 
 <hr>
 
-<p>👋Hi, I’m Nhlanhla Mokoena, but you can call me Murci – I am a certified Data Scientist with a Focus on Generative AI, AI Engineering & Automation
+👋 Hi, I’m **Nhlanhla “Murci” Mokoena** — a **certified Data Scientist** specializing in **Generative AI**, **AI Engineering**, and **Automation**. I’m deeply driven by the transformative power of **artificial intelligence** and its potential to solve complex real-world problems while unlocking new business opportunities.
 
-Driven by a fascination for artificial intelligence and its transformative potential. While certified in data science, my primary interest lies in the exciting realm of generative AI and machine learning. I am also a self-taught developer with a passion for AI engineering, particularly in the areas of automation and the development of intelligent AI systems.
+While my foundation is in **data science and machine learning**, my passion extends to **AI engineering** — designing, developing, and deploying **secure**, **scalable**, and **reliable AI systems** that automate workflows, enhance decision-making, and drive measurable impact across various domains.
 
-My technical skills include proficiency in Python for data analysis and machine learning, experience with data visualization using python libraries such as matplotlib and seaborn. With growing understanding of front-end development (HTML, CSS) I am constantly pushing towards full-stack AI Engineering using vibe coding for clean UIs and dashboards. I am actively learning about and experimenting with neural networks and the application of large language models.
+I leverage my technical expertise in **Python**, **data analysis**, and **machine learning frameworks**, complemented by strong skills in **data visualization** using libraries such as **Matplotlib** and **Seaborn**, to translate data into **actionable insights**.  
+Beyond backend intelligence, I apply my growing knowledge of **front-end development** (**HTML**, **CSS**) and **UI design principles** to build **intuitive AI dashboards** and **interactive user interfaces**, using **vibe coding** practices to ensure **clean**, **responsive**, and **user-friendly** experiences.
 
-Open to collaborations and eager to contribute to projects that push the boundaries of AI and automation.
+My work often bridges the gap between **machine learning research** and **production-grade AI systems**, incorporating principles of **MLOps**, **automation**, and **cloud deployment** to ensure **performance**, **reliability**, and **scalability**. I’m continuously exploring **neural networks** and **large language models (LLMs)** to build **generative** and **context-aware** solutions that streamline operations and enhance user experiences.
 
+I am always open to collaborations that challenge the boundaries of **AI and automation** — particularly projects that use technology to **create tangible business value**, **optimize processes**, and **empower people through intelligent systems**.
 #
 
 <h4>Connect With Me:</h4>
