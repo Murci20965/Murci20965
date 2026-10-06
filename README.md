@@ -52,13 +52,6 @@ learning where anyone, anywhere, can practise real skills interactively.
 **Agentic AI and RAG:** LangChain · LangGraph · n8n · vector databases · multi-agent workflows ·
 Claude and OpenAI APIs. **MLOps:** Docker · CI/CD · Hugging Face Spaces · Render · Vercel.
 
-### Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Murci20965/Murci20965/output/snake-dark.svg">
-  <img alt="Contribution graph drawn as a snake eating the year's commits" src="https://raw.githubusercontent.com/Murci20965/Murci20965/output/snake.svg">
-</picture>
-
 ### Find me
 
 [Portfolio](https://my-site-six-rose.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nhlanhla-mokoena-32b22b174/) · [Email](mailto:nhlanhla18mokoena@gmail.com)
