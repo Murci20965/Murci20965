@@ -24,8 +24,7 @@ learning where anyone, anywhere, can practise real skills interactively.
 </h3>
 
 <p>
-  <a href="https://avatar-pipeline.vercel.app"><img src="assets/live-avatar.webp" width="48%" alt="Avatar-3D Pipeline, live demo: words to 14 animation states in React Three Fiber"></a>&nbsp;&nbsp;
-  <a href="https://orbit-3d-pipeline.vercel.app"><img src="assets/live-orbit.webp" width="48%" alt="Orbit-3D Asset Pipeline, live demo: text or image to web-ready 3D with headless Blender"></a>
+  <a href="https://avatar-pipeline.vercel.app"><img src="assets/live-avatar.webp" width="48%" alt="Avatar-3D Pipeline, live demo: words to 14 animation states in React Three Fiber"></a> <a href="https://orbit-3d-pipeline.vercel.app"><img src="assets/live-orbit.webp" width="48%" alt="Orbit-3D Asset Pipeline, live demo: text or image to web-ready 3D with headless Blender"></a>
 </p>
 
 **[Avatar-3D Pipeline](https://avatar-pipeline.vercel.app)**: natural language to 14 validated 3D
